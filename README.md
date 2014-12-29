@@ -10,6 +10,7 @@ Implementation of Reinforcement learning methods on simple Games
 
 
 References
+
 http://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html
 http://www-scf.usc.edu/~uakyol/final_main.pdf
 
