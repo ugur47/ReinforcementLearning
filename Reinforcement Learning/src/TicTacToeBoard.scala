@@ -1,4 +1,4 @@
-class TicTacToeBoard
+class TicTacToeBoard extends Board
 {
   var thisboard:Array[Array[String]] = _
   

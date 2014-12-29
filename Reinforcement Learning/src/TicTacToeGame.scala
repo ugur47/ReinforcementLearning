@@ -15,7 +15,7 @@ class TicTacToeGame
       else curPlayer = player1
       
       //make move
-      board = curPlayer.playMove(board)
+      //board = curPlayer.playMove(board)
     }
     
     //return score
