@@ -3,9 +3,13 @@ ReinforcementLearning
 
 Implementation of Reinforcement learning methods on simple Games 
 
+
 -On policy MonteCarlo Control
+
 -Off policy Monter Carlo Control
+
 -TD learning
+
 -Dynamic Programming for solving MDPs
 
 
